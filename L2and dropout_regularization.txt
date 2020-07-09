@@ -1,0 +1,21 @@
+"C:\Users\Haritha & Prasobh\AppData\Local\Programs\Python\Python38-32\python.exe" "C:/Users/Haritha & Prasobh/PycharmProjects/Test/FootballTeam_regularization.py"
+Cost after iteration 0: 0.6974484493131264
+Cost after iteration 10000: 0.2684918873282238
+Cost after iteration 20000: 0.26809163371273015
+On the train set:
+Accuracy: 0.9383886255924171
+On the test set:
+Accuracy: 0.93
+Cost after iteration 0: 0.6543912405149825
+C:/Users/Haritha & Prasobh/PycharmProjects/Test/FootballTeam_regularization.py:82: RuntimeWarning: divide by zero encountered in log
+  logprobs = np.multiply(-np.log(a3),Y)+np.multiply(-np.log(1-a3),(1-Y))
+C:/Users/Haritha & Prasobh/PycharmProjects/Test/FootballTeam_regularization.py:82: RuntimeWarning: invalid value encountered in multiply
+  logprobs = np.multiply(-np.log(a3),Y)+np.multiply(-np.log(1-a3),(1-Y))
+Cost after iteration 10000: 0.0610169865749056
+Cost after iteration 20000: 0.060582435798513114
+On the train set:
+Accuracy: 0.9289099526066351
+On the test set:
+Accuracy: 0.95
+
+Process finished with exit code 0
